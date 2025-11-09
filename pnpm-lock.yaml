@@ -202,6 +202,9 @@ importers:
       require-in-the-middle:
         specifier: 7.5.2
         version: 7.5.2
+      sonner:
+        specifier: ^2.0.7
+        version: 2.0.7(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       ua-parser-js:
         specifier: ^2.0.6
         version: 2.0.6
